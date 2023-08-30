@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    gap: 50px;  
+}
+li{
+    list-style: none;  
+
+}
+.li{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    
+}
